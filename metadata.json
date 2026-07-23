@@ -1,0 +1,6 @@
+{
+  "name": "Smart Delivery",
+  "description": "스마트 택배 운송장 조회 및 배송 추적 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
